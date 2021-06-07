@@ -1,10 +1,12 @@
 # iptvcat-scraper
 
+> **This is no longer maintained.**
+
 A web scraper for iptvcat.com written in go, using `go-colly`.
 
 ## Channels
 
-Channels can be found under [/data](/data).
+~~Channels can be found under [/data](/data).~~
 
 ## Note
 
